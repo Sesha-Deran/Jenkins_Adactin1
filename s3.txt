@@ -4,4 +4,8 @@ scenario4 added
 
 scenario5 added
 
+<<<<<<< HEAD
 scenario7 added
+=======
+scenario6 added
+>>>>>>> ModuleFile
